@@ -119,8 +119,7 @@ Download the dist file
 | (Tapitan, Dancelle L.)   | Developer 1     | Built main_gui.py and tasks.py — CRUD logic and GUI                       |
 | (Teraza, John Patrick)   | Developer 2     | Built file_handler.py and utils.py — file saving and validation           |
 | (Moscoso, Micho Elly B.) | Client          | Defined system requirements, validated features, suggested improvements   |
-| (Tablon, Karl James )    | QA Specialist  
-Ran all 21 test cases, documented results           |
+| (Tablon, Karl James )    | QA Specialist   | Ran all possible cases, documented results                                |
 
 ---
 
